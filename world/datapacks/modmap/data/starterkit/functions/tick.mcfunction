@@ -1,0 +1,1 @@
+execute as @a unless score @s starterkit_join matches 1.. run function starterkit:give_kit
