@@ -1,0 +1,1 @@
+function zombie_event:reset_all

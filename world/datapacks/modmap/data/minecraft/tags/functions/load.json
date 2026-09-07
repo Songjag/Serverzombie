@@ -1,5 +1,6 @@
 {
   "values": [
-    "starterkit:load"
+    "starterkit:load",
+    "zombie_event:load"
   ]
 }

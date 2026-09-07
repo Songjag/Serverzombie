@@ -1,0 +1,12 @@
+/datapack enable "file/modmap"
+/reload
+/scoreboard objectives list
+/function zombie_event:reset_all
+/function starterkit:tick
+/scoreboard players get @s starterkit_join
+/trigger zombie_event_start set 1
+/schedule function zombie_event:tick 1t
+/execute if block 0 0 0 minecraft:repeating_command_block run say Da tao command block
+/scoreboard players set #timer zombie_event_timer 239999
+/schedule function zombie_event:tick 1t
+/execute if block 0 0 0 minecraft:air run say Da xoa command block

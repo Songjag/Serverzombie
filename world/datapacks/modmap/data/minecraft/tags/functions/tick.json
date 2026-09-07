@@ -1,5 +1,6 @@
 {
   "values": [
-    "starterkit:tick"
+    "starterkit:tick",
+    "zombie_event:tick"
   ]
 }
