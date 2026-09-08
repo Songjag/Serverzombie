@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 1000],
+    "min_format": 15,
+    "max_format": 1000,
+    "description": "zb2 - Combined resource pack"
+  },
+  "overlays": {
+    "entries": [
+      { "directory": "20-3", "formats": { "min_inclusive": 22, "max_inclusive": 1000 } },
+      { "directory": "21-2", "formats": { "min_inclusive": 42, "max_inclusive": 1000 } },
+      { "directory": "21-5", "formats": { "min_inclusive": 55, "max_inclusive": 1000 } },
+      { "directory": "21-6", "formats": { "min_inclusive": 63, "max_inclusive": 1000 } },
+      { "directory": "21-11", "formats": { "min_inclusive": 75, "max_inclusive": 1000 } }
+    ]
+  }
+}
