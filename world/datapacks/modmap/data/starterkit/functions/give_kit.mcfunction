@@ -2,6 +2,17 @@ give @s tacz:ammo{AmmoId:"tacz:50ae"} 64
 give @s tacz:modern_kinetic_gun{GunId:"tacz:deagle",HasBulletInBarrel:1b,GunFireMode:"SEMI",GunCurrentAmmoCount:7,AmmoItems:[{id:"tacz:ammo",Count:7b,tag:{AmmoId:"tacz:50ae"}}]} 1
 give @s minecraft:bread 10
 give @s minecraft:oak_log 8
+give @s minecraft:crafting_table 1
+give @s minecraft:iron_ingot 64
+give @s minecraft:iron_axe 1
+give @s minecraft:iron_pickaxe 1
+give @s minecraft:shield 1
+give @s minecraft:leather 64
+give @s minecraft:coal 64
+give @s minecraft:torch 64
+give @s minecraft:cooked_beef 64
+give @s minecraft:wheat_seeds 8
+give @s minecraft:oak_boat 1
 give @s minecraft:leather_helmet 1
 give @s minecraft:leather_chestplate 1
 give @s minecraft:leather_leggings 1
